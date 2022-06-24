@@ -1,4 +1,4 @@
-import Lucky from './lucky';
+import Lucky from './lucky'
 import { UserConfigType, ImgType } from '../types/index'
 import LuckyGridConfig, {
   BlockType,
